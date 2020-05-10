@@ -7,6 +7,7 @@ Programming assignments and Lecture slides from the basic ML course by Andrew NG
 ## Algorithms - 
 1. Supervised Learning
     - Linear Regression
+    - Gradient Descent
     - Logistic Regression
     - Regularization
     - Basic Neural Network
@@ -14,4 +15,13 @@ Programming assignments and Lecture slides from the basic ML course by Andrew NG
     - Support Vector Machines
 
 2. Unsupervised Learning
-    - To be continued
+    - K-means Clustering
+    - Principal Component Analysis
+    - Anomaly Detection
+   
+3. Miscellanous
+    - Large Scale Machine Learning
+    - Recommender Systems
+        - Content based recommendations
+        - Collaborative Filtering
+
